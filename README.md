@@ -47,6 +47,7 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 
 ### 推荐上网服务
 - [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
+- [lantern](https://github.com/getlantern/lantern)
 
 ## 推荐看的书籍
 - [JavaScript高级程序设计（第3版）](https://book.douban.com/subject/1)
