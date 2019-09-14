@@ -1,5 +1,7 @@
 # Angular-group
 
+QQ群号：`263752194`
+
 > We need to know
 > 相识即是有缘，这个仓库我希望能够集大家所思所想。我们彼此贡献出自己的认识，认知和积累。
 > 最终我们达到两个目的，一个是Angular可以玩的随心所欲，一个是能够在程序员这个角色上得到更大的提高。千万不要被一个工具，一个框架所束缚，这只是沧海一粟。
@@ -15,6 +17,9 @@ _备注：文中所有的列表无排名_
 2. https://github.com
 3. https://medium.com
 4. https://www.youtube.com
+  - Jetbrains官方频道
+  - Apple官方频道
+  - 各个技术讲解视频
 5. 各个技术官网
 
 ## IDE
@@ -38,3 +43,4 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 
 ### 推荐服务
 - [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
+
