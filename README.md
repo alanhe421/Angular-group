@@ -51,3 +51,7 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 ## 推荐看的书籍
 - [JavaScript高级程序设计（第3版）](https://book.douban.com/subject/1)
 - [重构（第2版）全彩精装版](https://book.douban.com/subject/30468597/)
+
+## 仓库贡献
+- 提Issue
+- 提PR
