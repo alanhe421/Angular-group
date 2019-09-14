@@ -37,11 +37,13 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - 脚手架
 - 源码
 
-
 ## 上不了谷歌？
 
 如果上不了谷歌，一个方案是解决它，一个是趁早换行。我们IT业薪资相对高，但正因此，我们面临的挑战也多，我们需要持续投资。买个SS服务不贵的，这点请想明白
 
-### 推荐服务
+### 推荐上网服务
 - [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
 
+## 推荐看的书籍
+- [JavaScript高级程序设计（第3版）](https://book.douban.com/subject/1)
+- [重构（第2版）全彩精装版](https://book.douban.com/subject/30468597/)
