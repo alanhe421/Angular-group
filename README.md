@@ -16,6 +16,8 @@ We need to know
 - Intellij IDEA
 - Visual Studio Code
 
+_推荐使用WS，因为足够方便，节约时间做业务，学技术，而不是捣腾IDE_
+
 ## Angular框架学习办法
 - 官网
 - 第三方插件模块
