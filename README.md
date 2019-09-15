@@ -49,6 +49,9 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
 - [lantern](https://github.com/getlantern/lantern)
 
+## 推荐看的视频
+- [42 IntelliJ IDEA Tips and Tricks](https://www.youtube.com/watch?v=eq3KiAH4IBI&t=317s)
+
 ## 推荐看的书籍
 - [JavaScript高级程序设计（第3版）](https://book.douban.com/subject/1)
 - [重构（第2版）全彩精装版](https://book.douban.com/subject/30468597/)
