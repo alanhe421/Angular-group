@@ -49,6 +49,9 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
 - [lantern](https://github.com/getlantern/lantern)
 
+## 代码规范
+- https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
+
 ## 推荐看的视频
 - [42 IntelliJ IDEA Tips and Tricks](https://www.youtube.com/watch?v=eq3KiAH4IBI&t=317s)
 
