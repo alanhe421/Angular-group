@@ -46,7 +46,7 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 如果上不了谷歌，一个方案是解决它，一个是趁早换行。我们IT业薪资相对高，但正因此，我们面临的挑战也多，我们需要持续投资。买个SS服务不贵的，这点请想明白
 
 ### 推荐上网服务
-- [shadowsocks](https://portal.shadowsocks.club/index.php?m=AffiliateManagement)
+- [shadowsocks](https://portal.shadowsocks.club/aff.php?aff=27252)
 - [lantern](https://github.com/getlantern/lantern)
 
 ## 代码规范
