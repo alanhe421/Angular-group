@@ -61,5 +61,8 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - [重构（第2版）全彩精装版](https://book.douban.com/subject/30468597/)
 - Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
 
+## 推荐看的文档
+- http://www.ecma-international.org/ecma-262/6.0
+
 ## 推荐节目
 - https://pan.icu/
