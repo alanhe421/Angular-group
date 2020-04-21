@@ -28,6 +28,9 @@ _备注：文中所有的列表无排名_
 5. 各个技术官网
 6. https://stackoverflow.com/
 
+## 前端资源推荐
+- 图标下载 https://www.easyicon.net
+
 ## IDE
 - WebStorm
   - [快捷键背熟练](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
