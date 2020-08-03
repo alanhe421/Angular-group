@@ -30,6 +30,7 @@ _备注：文中所有的列表无排名_
 
 ## 前端资源推荐
 - 图标下载 https://www.easyicon.net
+- 图标下载 https://icons8.com/icons
 
 ## IDE
 - WebStorm
