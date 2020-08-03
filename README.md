@@ -49,6 +49,8 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 
 如果上不了谷歌，一个方案是解决它，一个是趁早换行。我们IT业薪资相对高，但正因此，我们面临的挑战也多，我们需要持续投资。买个SS服务不贵的，这点请想明白
 
+推荐看下[陈浩这篇文章](https://github.com/haoel/haoel.github.io)获取点友好提醒，如果还是不为所动，你不适合IT，不适合该群。
+
 ### 推荐上网服务
 - `现成服务` [shadowsocks](https://portal.shadowsocks.nz/aff.php?aff=27252)，有V2Ray节点
 - `自己搭建` [Vultr](https://www.vultr.com/?ref=8363373)，推荐Docker搭建V2Ray,[参考这里](https://github.com/alanhg/v2ray-docker)
