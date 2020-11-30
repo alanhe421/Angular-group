@@ -9,7 +9,7 @@ QQ群号：`263752194`
 _备注：文中所有的列表无排名_
 
 ## 群规
-- 可以闲聊，但色情违法等信息禁止发布，看到就踢人。主要为了节约大家的时间。我们的交集是学习，不是垃圾
+- 可以闲聊，但色情违法，广告等信息禁止发布，看到就踢。主要为了节约大家的时间。我们的交集是学习，不是垃圾
 - 关于书籍能买正版还是买吧，知识付费时代已经到来。尊重他人的知识产出，也是尊重自己
 
 ## 如何提问
@@ -57,6 +57,7 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - `自己搭建` [Vultr](https://www.vultr.com/?ref=8363373)，推荐Docker搭建V2Ray,[参考这里](https://github.com/alanhg/v2ray-docker)
 - `现成服务` [lantern](https://github.com/getlantern/lantern)
 - `现成服务` [glados](https://glad-os.com/) ps:我记得新用户好像给是10G
+- `现成服务`[tempest](https://tempestapp.io/aff.php?aff=3876) 一年888RMB，我所用过的最贵机场，所以被称为rich，但一分价钱一分货，爱用不用
 
 ## 代码规范
 - https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
