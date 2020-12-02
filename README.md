@@ -57,7 +57,6 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - `自己搭建` [Vultr](https://www.vultr.com/?ref=8363373)，推荐Docker搭建V2Ray,[参考这里](https://github.com/alanhg/v2ray-docker)
 - `现成服务` [lantern](https://github.com/getlantern/lantern)
 - `现成服务` [glados](https://glad-os.com/) ps:我记得新用户好像给是10G
-- `现成服务`[tempest](https://tempestapp.io/aff.php?aff=3876) 一年888RMB，我所用过的最贵机场，所以被称为rich，但一分价钱一分货，爱用不用
 
 ## 代码规范
 - https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
