@@ -45,6 +45,7 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 - 第三方插件模块
 - 脚手架
 - 源码
+- 优秀项目-https://github.com/PatrickJS/awesome-angular
 
 ## 上不了谷歌？
 
