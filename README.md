@@ -54,9 +54,8 @@ _推荐使用WS，因为足够方便，节约时间做业务，学技术，而�
 推荐看下[陈浩这篇文章](https://github.com/haoel/haoel.github.io)获取点友好提醒，如果还是不为所动，你不适合IT，不适合该群。
 
 ### 推荐上网服务
-- `现成服务` [shadowsocks](https://portal.shadowsocks.au/aff.php?aff=27252)，有V2Ray节点
-- `自己搭建` [Vultr](https://www.vultr.com/?ref=8363373)，推荐Docker搭建V2Ray,[搭建指南](https://alanhg.github.io/v2ray-docker)
-- `现成服务` [glad（收费，性价比挺高的）](https://glad-os.com/)
+- `现成服务`，有V2Ray节点
+- `自己搭建`，推荐Docker搭建V2Ray,[搭建指南](https://alanhg.github.io/v2ray-docker)
 
 ## 代码规范
 - https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
